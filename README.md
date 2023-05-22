@@ -19,8 +19,7 @@ The most unique function of this engine is it's procedural world generation. The
 
 <br />
 
-_CODE SNIPPETS FOR WORLD GENERATION:_ <br />
-CODE SNIPPET LINK FOR CHUNK BUILDER <br />
-CODe SNIPPET FOR WORLD GENERATION <br />
+_CODE SNIPPET FOR WORLD GENERATION:_ <br />
+[a link](https://github.com/TobiasSpilker/SimpleEngine/blob/main/Code%20Snippets/WorldGeneration/QuadValues.cs)
 
 _EXAMPLE IMAGE:_
