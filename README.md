@@ -22,5 +22,5 @@ The most unique function of this engine is it's procedural world generation. The
 _CODE SNIPPET FOR WORLD GENERATION:_ <br />
 [Updating and filling in the QuadValues, AKA the procedural part](https://github.com/TobiasSpilker/SimpleEngine/blob/main/Code%20Snippets/WorldGeneration/QuadValues.cs)
 
-_EXAMPLE IMAGE:_
-<img src="https://github.com/TobiasSpilker/SimpleEngine/blob/main/Images/Layout/ChunkExample.png">
+_EXAMPLE IMAGE:_ <br />
+<img src="https://github.com/TobiasSpilker/SimpleEngine/blob/main/Images/Layout/ChunkExample.png" width="200">
